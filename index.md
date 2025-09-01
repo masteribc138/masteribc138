@@ -18,3 +18,4 @@ Supaya aktivitas hiburan online tetap aman, nyaman, dan sehat, cek daftar cepat 
 > 18+. Bermainlah secara bertanggung jawab.
 
 [Checklist Mobile-Friendly →](./posting-2)
+[2FA & Keamanan Akun →](./posting-3)
